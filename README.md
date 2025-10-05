@@ -1,4 +1,4 @@
-This notebook demonstrates how to programmatically generate and insert synthetic customer and sales order data into a PostgreSQL database using Python. Here’s a breakdown of what it does:
+[Generate Samples Sales and Order Data in PostgreSQL](https://github.com/werowe/glue/blob/master/inventory%20sysystem.ipynb) demonstrates how to programmatically generate and insert synthetic customer and sales order data into a PostgreSQL database using Python. Here’s a breakdown of what it does:
 
 ---
 
